@@ -23,6 +23,13 @@ This theme brings the warm browns, electrifying teals, and scintillating tangeri
 
 ## Tips
 
+Pop Theme works much better with Zed's built-in bracket colorisation (so-called "rainbow" brackets). Enable it globally in your `settings.json`:
+
+```json
+{
+  "colorize_brackets": true
+}
+```
 
 ## Installation
 
