@@ -1,5 +1,7 @@
 # Pop Theme for Zed
 
+[![Zed Extension](https://img.shields.io/badge/-Zed_Extension-blue?style=flat&logo=zedindustries&logoColor=%23FFFFFF&logoSize=auto&labelColor=%23111111&color=%233f3b39)](https://zed.dev/extensions/pop-theme)
+
 A port of the Pop!_OS design language for the [Zed Editor](https://zed.dev).
 
 ## About
