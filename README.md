@@ -44,7 +44,7 @@ Install via the Zed Extensions panel:
 
 ## Acknowledgements
 
-- [ArtisanByteCrafter / VSCodePopTheme](https://github.com/ArtisanByteCrafter/VSCodePopTheme) — The original VS Code port of the Pop!_OS theme.
+- [**@ArtisanByteCrafter**](https://github.com/ArtisanByteCrafter/VSCodePopTheme) — The original VS Code port of the Pop!_OS theme.
 - [System76](https://system76.com/) — Creators of Pop!_OS and the original design language.
 
 ## License
