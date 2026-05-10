@@ -35,12 +35,16 @@ Pop Theme works much better with Zed's built-in bracket colorisation (so-called 
 
 ## Installation
 
-Install via the Zed Extensions panel:
+### Zed Extensions:
 1. Open Zed
 2. Press `Cmd+Shift+P` (macOS) / `Ctrl+Shift+P` (Linux/Windows)
 3. Type "extensions" and select **Extensions: Install Extensions**
 4. Search for "Pop Theme"
 5. Click **Install**
+
+### Manual installation
+1. Copy `pop-theme.json` to `~/.config/zed/themes/`.
+2. In Zed navigate to `Settings :: Theme :: Pop Dark/Light`.
 
 ## Acknowledgements
 
