@@ -46,10 +46,16 @@ Pop Theme works much better with Zed's built-in bracket colorisation (so-called 
 1. Copy `pop-theme.json` to `~/.config/zed/themes/`.
 2. In Zed navigate to `Settings :: Theme :: Pop Dark/Light`.
 
+## See also
+
+* [**VS Code Pop Theme**](https://github.com/ArtisanByteCrafter/VSCodePopTheme) — The original VS Code port by [@ArtisanByteCrafter](https://github.com/ArtisanByteCrafter)
+* [**Pi Pop Theme**](https://github.com/atsyplenkov/pi-pop-theme) — The Pi Coding Agent theme
+
 ## Acknowledgements
 
-- [**@ArtisanByteCrafter**](https://github.com/ArtisanByteCrafter/VSCodePopTheme) — The original VS Code port of the Pop!_OS theme.
-- [System76](https://system76.com/) — Creators of Pop!_OS and the original design language.
+- [**@ArtisanByteCrafter**](https://github.com/ArtisanByteCrafter/VSCodePopTheme) — The original VS Code port of the Pop!_OS theme
+- [System76](https://system76.com/) — Creators of Pop!_OS and the original design language
+- This project has made use of AI-assisted pair programming using `Kimi-K2.5` and `Pi`
 
 ## License
 
